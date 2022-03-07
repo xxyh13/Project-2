@@ -121,6 +121,13 @@ section#skills{
   padding: 1em;
 }
 
+#picturenala {
+  background-color: white;
+  padding: 2.5% 2.5% 2.5% 2.5%;
+  border-top: 1px;
+  padding: 1em;
+}
+
 h1#namepugs{
   font-family: 'Assistant', fantasy;
   color: brown;
