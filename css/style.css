@@ -1,0 +1,72 @@
+/*code for project pages*/
+header {
+  background-color: pink;
+  padding: 5% 15% 5% 5%;
+  margin-left: 2px;
+  margin-bottom: 2em;
+  border-bottom: 1px;
+}
+
+h1 {
+  font-family:'Assistant',cursive;
+  font-weight: bolder;
+  font-size: 5em;
+  color: inherit;
+}
+
+nav#nav li {
+  float: right;
+  width: 35%
+  margin:inherit;
+  text-align: center;
+}
+
+h2 {
+  font-family:'Assistant',cursive;
+  font-weight: bold;
+  font-size: 2.5em;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Assistant', serif;
+  font-weight: lighter;
+}
+
+p{
+  font-family: 'Assistant', serif;
+  font-weight: lighter;
+}
+
+ul{
+  font-family: 'Assistant', serif;
+  font-size: 1.5em;
+  margin-bottom: 2em;
+}
+
+education#education {
+  font-family: 'Assistant', serif;
+}
+
+body{
+  background-color: purple;
+}
+
+nav#nav li {
+  float: left;
+  width: 100%;
+  margin: .25%;
+  text-align: center;
+  list-style-type: none;
+}
+
+/*code for index.html button*/
+button#Linkedin-profile {
+  color: white;
+  text-decoration: underline;
+  padding: 1em;
+  border: 2px solid;
+  font-family: serif;
+  background-color: black;
+}
