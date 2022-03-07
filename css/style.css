@@ -106,10 +106,33 @@ section#responsibilities{
   background-color: white;
 }
 
-/*code for pugs.html and vegas.html only*/
+/*code for pugs.html only*/
 #picture {
   background-color: white;
   padding: 2.5% 2.5% 2.5% 2.5%;
   border-top: 1px;
   padding: 1em;
+}
+
+h1#namepugs{
+  font-family: 'Assistant', fantasy;
+  color: brown;
+  text-align: right;
+  text-shadow: 50%;
+}
+
+h2#orgin{
+  color: brown;
+}
+
+h2#health{
+  color: brown;
+}
+
+h2#nala{
+  color: brown;
+}
+
+iframe#video{
+  padding: 2.5% 2.5% 2.5% 2.5%;
 }
