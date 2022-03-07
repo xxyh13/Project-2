@@ -1,4 +1,4 @@
-/*code for project pages*/
+/*code for all project pages*/
 header {
   background-color: pink;
   padding: 5% 5% 5% 5%;
@@ -79,7 +79,6 @@ body{
   background-color: purple;
 }
 
-
 /*code for index.html button*/
 button#Linkedin-profile {
   color: white;
@@ -88,6 +87,23 @@ button#Linkedin-profile {
   border: 2px solid;
   font-family: serif;
   background-color: black;
+}
+
+h1#name{
+  font-family: 'Assistant', cursive;
+  color: white;
+}
+
+ul#info{
+  background-color: white;
+}
+
+section#contact{
+  background-color: white;
+}
+
+section#responsibilities{
+  background-color: white;
 }
 
 /*code for pugs.html and vegas.html only*/
