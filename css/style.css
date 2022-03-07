@@ -14,12 +14,37 @@ h1 {
   color: inherit;
 }
 
-nav#nav li {
-  float: right;
-  width: 35%
-  margin:inherit;
+nav#nav li{
+  float: left;
+  width: 25%;
+  margin: .5% .20% .5% .50%;
   text-align: center;
 }
+
+nav#mainnav ul li a {
+ text-decoration: none;
+ color: black;
+ padding: 1em;
+ display: underline;
+ background-color: white;
+}
+
+nav#mainnav ul {
+ list-style-type: none;
+ padding: 0;
+ margin: 0;
+ overflow: hidden;
+ font-family: 'Assistant', serif;
+ font-weight: 900;
+ background-color: white;
+}
+
+nav#mainnav ul li a:hover {
+ background-color: indigo;
+ border: 1px solid indigo;
+ color: white;
+}
+
 
 h2 {
   font-family:'Assistant',cursive;
@@ -51,14 +76,6 @@ education#education {
 
 body{
   background-color: purple;
-}
-
-nav#nav li {
-  float: left;
-  width: 100%;
-  margin: .25%;
-  text-align: center;
-  list-style-type: none;
 }
 
 /*code for index.html button*/
