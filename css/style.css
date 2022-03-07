@@ -123,16 +123,45 @@ h1#namepugs{
 
 h2#orgin{
   color: brown;
+  background-color:white;
 }
 
 h2#health{
   color: brown;
+  background-color:white;
 }
 
 h2#nala{
   color: brown;
+  background-color:white;
 }
 
 iframe#video{
   padding: 2.5% 2.5% 2.5% 2.5%;
+}
+
+/*code for trip.html only*/
+h1#birthday{
+  color: blue;
+  padding: 2.5% 2.5% 2.5% 2.5%;
+  text-align: center;
+}
+
+h2#place{
+    background-color:blue;
+}
+
+#picture {
+  background-color: white;
+  padding: 2.5% 2.5% 2.5% 2.5%;
+  border-top: 1px;
+  padding: 1em;
+  align-items: right;
+}
+
+h2#place{
+  color: white;
+}
+p#cap{
+  background-color: white;
 }
