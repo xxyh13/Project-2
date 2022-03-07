@@ -158,7 +158,20 @@ h2#place{
     background-color:blue;
 }
 
+h2#placehawaii{
+  background-color:blue;
+  color: white;
+}
+
 #picture {
+  background-color: white;
+  padding: 2.5% 2.5% 2.5% 2.5%;
+  border-top: 1px;
+  padding: 1em;
+  align-items: right;
+}
+
+picture#picturehawaii{
   background-color: white;
   padding: 2.5% 2.5% 2.5% 2.5%;
   border-top: 1px;
@@ -169,6 +182,11 @@ h2#place{
 h2#place{
   color: white;
 }
+
 p#cap{
+  background-color: white;
+}
+
+p#capvegas{
   background-color: white;
 }
