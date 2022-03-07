@@ -25,7 +25,6 @@ nav#mainnav ul li a {
  text-decoration: none;
  color: black;
  padding: 1em;
- display: underline;
  background-color: white;
 }
 
@@ -132,7 +131,6 @@ h1#namepugs{
   font-family: 'Assistant', fantasy;
   color: brown;
   text-align: right;
-  text-shadow: 50%;
 }
 
 h2#orgin{
@@ -175,7 +173,6 @@ h2#placehawaii{
   padding: 2.5% 2.5% 2.5% 2.5%;
   border-top: 1px;
   padding: 1em;
-  align-items: right;
 }
 
 picture#picturehawaii{
@@ -183,7 +180,6 @@ picture#picturehawaii{
   padding: 2.5% 2.5% 2.5% 2.5%;
   border-top: 1px;
   padding: 1em;
-  align-items: right;
 }
 
 h2#place{
