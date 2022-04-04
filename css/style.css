@@ -1,10 +1,10 @@
 /*code for all project pages*/
 header {
   background-color: white;
-  padding: 5% 5% 5% 5%;
-  margin-left: 2px;
-  margin-bottom: 2em;
-  border-bottom: 2px;
+  padding: 2.5% 5% 2.5% 5%;
+  margin-left: 1px;
+  margin-bottom: 1em;
+  border-bottom: 1px;
 }
 
 body{
@@ -62,7 +62,6 @@ nav#nav ul li a:hover {
  color:white;
 }
 /*code for index.html only*/
-/*code for index.html button*/
 button#Linkedin-profile {
   color: pink;
   text-decoration: none;
@@ -83,6 +82,14 @@ h2{
 
 h3{
   text-align: center;
+}
+
+ol{
+  font-family: 'Assistant', sans-serif;
+  font-weight: 150;
+  font-size: 1em;
+  line-height: 1em;
+  margin-bottom: 1em;
 }
 
 /*code for pugs.html only*/
